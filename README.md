@@ -12,7 +12,9 @@ A beginner-friendly chatbot built using Python that responds to user inputs base
 🧠 Rule-based responses using conditions
 🧩 Built using basic Python concepts (no external libraries)
 ⚡ Beginner-friendly project for practice
+
 🛠️ Technologies Used
+
 Python 🐍
 Conditional Statements (if-elif-else)
 Loops (while)
@@ -21,6 +23,8 @@ Input / Output handling
 
 
 📁 Project Structure
+
+
 Chatbot/
 │
 ├── chatbot.py
